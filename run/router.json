@@ -1,0 +1,27 @@
+[
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/",
+    "regexp": "/^(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "createPost",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/api/posts",
+    "regexp": "/^\\/api\\/posts(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  }
+]

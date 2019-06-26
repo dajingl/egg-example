@@ -1,0 +1,29 @@
+{
+  "name": "egg-example",
+  "version": "1.0.0",
+  "description": "egg框架学习",
+  "main": "index.js",
+  "scripts": {
+    "dev": "egg-bin dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dajingl/egg-example.git"
+  },
+  "keywords": [
+    "123456"
+  ],
+  "author": "dj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dajingl/egg-example/issues"
+  },
+  "homepage": "https://github.com/dajingl/egg-example#readme",
+  "dependencies": {
+    "egg": "^2.22.2"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.13.1"
+  }
+}

@@ -24,6 +24,6 @@
     "egg": "^2.22.2"
   },
   "devDependencies": {
-    "egg-bin": "^4.13.1"
+    "egg-bin": "^4.20.0"
   }
 }
